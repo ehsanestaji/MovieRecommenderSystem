@@ -1,8 +1,8 @@
 node2vec==0.4.3
 gensim==4.1.2
 Pillow==8.3.2
-networkx==2.8.6
+networkx==3.2.1
 numpy==1.23.3
 pandas==1.4.4
-pyvis==0.2.1
-streamlit==1.12.2
+#
+streamlit==1.28.2
