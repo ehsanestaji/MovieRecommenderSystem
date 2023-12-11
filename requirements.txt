@@ -1,7 +1,7 @@
-node2vec==0.4.3
-gensim==4.1.2
-Pillow==8.3.2
-networkx==3.2.1
+node2vec==0.4.6
+gensim==4.3.2
+Pillow==10.1.0
+networkx==2.8.8
 numpy==1.23.3
 pandas==1.4.4
 pyvis==0.3.2
