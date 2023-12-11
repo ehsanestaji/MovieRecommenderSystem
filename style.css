@@ -1,0 +1,70 @@
+/* style.css */
+h1 {
+    color: red;
+}
+.stButton > button {
+    background-color: darkorange; /* Green */
+    border: none;
+    color: gray;
+    padding: 15px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+/* Responsive design */
+@media screen and (max-width: 768px) {
+    /* Styles for smaller screens */
+}
+
+
+
+body {
+    background-color: #f8f9fa; /* Light gray background */
+    color: #343a40; /* Dark gray text */
+    font-family: 'Arial', sans-serif;
+}
+
+.card {
+    background-color: #ffffff; /* White background for cards */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3);
+}
+
+.card-img-top {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.card-body {
+    padding: 2px 16px;
+}
+
+.card-title {
+    color: #007bff; /* Blue for titles */
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card-text {
+    color: #6c757d; /* Lighter shade of gray for text */
+    font-size: 16px;
+}
+
+
+.stButton > button {
+    /* background-color: #28a745; /* Green background for buttons */
+    color: white;
+}
+
+/* Other custom styles */
+
+/* Other custom styles */
